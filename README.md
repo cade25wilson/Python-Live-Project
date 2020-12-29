@@ -8,3 +8,7 @@ With multiple languages working together, bugs and errors were bound to occur. T
 <h1>HTML Table Template</h1>
 <p>One of the biggest factors for this project was the usage of webpage templates and connecting each page together through inhertiance. This was able to be completed by first creating a base parent template that each page created after would have to follow. My application was focused on creating a list of basketball players and details about that player. My base template revolved around creating a player, and viewing players created by the user. Here is an example of what the code looks like behind viewing past games.</p>
 <img src="Project-Files/table_django.png">
+
+<h1>Database Model</h1>
+<p>Another important factor of this project was that usage of a database. Setting up user inputs was a must as there needed to be some way to communicate to the database with the user. This was mainly done through the use of Django and built in models to create a database. This page is one of the bigger pages in terms of functionality because it is what recorded the inputs and sent them to a given table. Based off of the primary keys in this table, a more in depth details page was able to be created. By calling the primary key, a link was able to be created that would identify any specific row in the table. This is an example of what the model looked like for recording user input.</p>
+<img src="Project-Files/modelspage.png">
