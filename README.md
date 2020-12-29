@@ -7,4 +7,4 @@ With multiple languages working together, bugs and errors were bound to occur. T
 
 <h1>HTML Table Template</h1>
 <p>One of the biggest factors for this project was the usage of webpage templates and connecting each page together through inhertiance. This was able to be completed by first creating a base parent template that each page created after would have to follow. My application was focused on creating a list of basketball players and details about that player. My base template revolved around creating a player, and viewing players created by the user. Here is an example of what the code looks like behind viewing past games.</p>
-<img src="../table_django.png">
+<img src="Project-Files/table_django.png">
